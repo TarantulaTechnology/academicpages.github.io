@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tarantula Technology is an Austin contract software development company."
+title: "Tarantula Technology is an Austin custom software development company."
 excerpt: "About me"
 author_profile: true
 redirect_from:
